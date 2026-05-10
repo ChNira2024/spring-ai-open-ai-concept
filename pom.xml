@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.niranjana.ai</groupId>
-    <artifactId>spring-ai-concept</artifactId>
+    <artifactId>spring-ai-open-ai-concept</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
