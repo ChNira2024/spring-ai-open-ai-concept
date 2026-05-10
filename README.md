@@ -1,4 +1,4 @@
-# 🤖 Spring AI Demo Application
+# 🤖 Spring AI Application Integrate with React.js
 
 ## 📌 Overview
 
