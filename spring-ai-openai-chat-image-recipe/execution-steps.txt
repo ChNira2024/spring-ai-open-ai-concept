@@ -1,0 +1,8 @@
+http://localhost:8118/swagger-ui/index.html
+
+http://localhost:8118/v3/api-docs
+To disable it in production, set the property 'springdoc.api-docs.enabled=false'
+
+http://localhost:8118/actuator/info
+
+GET: http://localhost:8118/api/ai/chat?prompt=what is java?
